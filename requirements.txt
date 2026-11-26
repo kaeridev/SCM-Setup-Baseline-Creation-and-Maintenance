@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 pydantic>=2.0
+=======
+fastapi>=0.115,<1.0
+uvicorn[standard]>=0.30,<1.0
+>>>>>>> 8ecad22 (feat: add student API and inventory reporting)
